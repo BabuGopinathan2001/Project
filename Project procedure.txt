@@ -1,0 +1,10 @@
+step1:Install anaconda tool and open Anaconda Navigator
+step2:Create a envirnonment (stock8)
+step3:Select a python and verison 3.8.16
+step4:Open Anaconda prompt and activate your environment -(activate stock8) activate is keyword press enter
+step5:Drag and drop project file-(cd "C:\Users\ELCOT\Desktop\Stock-Price-Prediction-Webapp-main") press enter
+step6:Next type dir (open a inner file) press enter
+step7:Select prediction.py use in (streamlit run stock_price_prediction.py) press enter
+step8:Desktop application running successfully 
+step9:Use for stock market price prediction
+step10:Thanks to use my project.
